@@ -71,7 +71,7 @@
     "uuid": "^3.3.2",
     "vue-awesome-countdown": "^1.0.12",
     "vue-chartjs": "^3.4.0",
-    "webpack": "^4.28.4",
+    "webpack": "^5.69.0",
     "webshot": "^0.18.0",
     "winston": "^3.2.0",
     "winston-daily-rotate-file": "^3.5.1"
