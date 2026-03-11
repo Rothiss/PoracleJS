@@ -58,7 +58,7 @@
     "node-fetch-native": "^1.2.0",
     "node-geocoder": "^4.2.0",
     "node-schedule": "^2.1.0",
-    "nodes2ts": "^3.0.0",
+    "nodes2ts": "^4.0.2",
     "ohbem": "^1.5.1",
     "point-in-polygon": "^1.1.0",
     "rbush": "^4.0.1",
