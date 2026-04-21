@@ -1,8 +1,11 @@
 <p align="center">
           <img width="256" src="https://raw.githubusercontent.com/KartulUdus/PoracleJS/images/starchy.svg?sanitize=true">
 </p>
-  
-[![Build Status](https://travis-ci.org/KartulUdus/PoracleJS.svg?branch=master)](https://travis-ci.org/KartulUdus/PoracleJS)
+
+# Archived
+
+This project is archived. It has been replaced by a high performance replacement
+in Go, called [PoracleNG](https://github.com/jfberry/PoracleNG)
 
 #### Introduction
 
